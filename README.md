@@ -78,12 +78,20 @@ Multi-role authentication and product management system.
 
 ---
 
-## 📊 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayoubelfaqir1-ops&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubelfaqir1-ops&layout=compact&theme=tokyonight"/>
+  <a href="https://github.com/ayoubelfaqir1-ops">
+    <img src="https://github-readme-stats.vercel.app/api?username=ayoubelfaqir1-ops&show_icons=true&theme=radical" alt="Ayoub's GitHub Stats"/>
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/ayoubelfaqir1-ops">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubelfaqir1-ops&layout=compact&theme=radical" alt="Top Languages"/>
+  </a>
+</p>
+
 
 ---
 
