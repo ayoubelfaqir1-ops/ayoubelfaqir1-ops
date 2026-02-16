@@ -76,22 +76,6 @@ Console banking system using OOP principles and secure database connections.
 ### 🛒 E-Commerce Platform
 Multi-role authentication and product management system.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/ayoubelfaqir1-ops">
-    <img src="https://github-readme-stats.vercel.app/api?username=ayoubelfaqir1-ops&show_icons=true&theme=radical" alt="Ayoub's GitHub Stats"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ayoubelfaqir1-ops">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubelfaqir1-ops&layout=compact&theme=radical" alt="Top Languages"/>
-  </a>
-</p>
-
 
 ---
 
