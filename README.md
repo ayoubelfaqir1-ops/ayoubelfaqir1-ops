@@ -1,285 +1,176 @@
-<!-- ═══ HEADER ═══ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=C1272D,7a1216,0a0a0f&height=220&section=header&text=Ayoub%20Elfaqir&fontSize=65&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Morocco%20%F0%9F%87%B2%F0%9F%87%A6&descAlignY=63&descSize=18&animation=twinkling&stroke=C1272D&strokeWidth=2" width="100%"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=C1272D&center=true&vCenter=true&width=700&lines=🚀+Laravel+%7C+Livewire+%7C+PHP+%7C+MySQL;🤖+AI+Integration+%7C+Groq+%7C+REST+APIs;🛡️+Secure+Code+%7C+Service+Layer+Pattern;🎯+Seeking+Stage+PFA+—+May+2026+%7C+Rabat-Salé)](https://github.com/ayoubelfaqir1-ops)
+<img src="assets/header.svg" alt="Ayoub El Faqir, Full Stack Developer" width="100%" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayoubelfaqir1-ops&color=C1272D&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/ayoubelfaqir1-ops?color=C1272D&logo=github&style=for-the-badge&label=FOLLOWERS)](https://github.com/ayoubelfaqir1-ops)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elfaqir-ayoub-27b40b386/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayoub_El_Faqir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elfaqir-ayoub-27b40b386/)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-C1272D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoub.elfaqir1@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/ayoubelfaqir1-ops?style=for-the-badge&logo=github&color=F5B84B&labelColor=0d1117)](https://github.com/ayoubelfaqir1-ops)
+![Profile views](https://komarev.com/ghpvc/?username=ayoubelfaqir1-ops&style=for-the-badge&color=C1272D&label=PROFILE+VIEWS)
+
+<img src="assets/ticker.svg" alt="Laravel, React, TypeScript, Redis, Docker and more" width="100%" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
+<img src="assets/divider.svg" alt="" width="100%" />
 
-<!-- ═══ ABOUT ME ═══ -->
-
-## 🧬 About Me
+<img src="assets/h-about.svg" alt="About Me" width="100%" />
 
 <div align="center">
-
-![](https://img.shields.io/badge/📍_Rabat--Salé--Kenitra,_Morocco-0d1117?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/🎓_Y1_Full_Stack_Bootcamp-0d1117?style=for-the-badge)
-![](https://img.shields.io/badge/🎯_Stage_PFA_·_May_2026-C1272D?style=for-the-badge)
-
-<br/>
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  🛺  Building: Lamsa — Moroccan artisan marketplace          ║
-║  🍽️  Building: Food Recommendation API + React frontend      ║
-║  🌍  Target: Moroccan & French-speaking SMBs                 ║
-╠══════════════════════════════════════════════════════════════╣
-║  Discipline  >  Motivation                                   ║
-║  Understanding  >  Copy/Paste                                ║
-║  Security = Standard, not optional                           ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══ TECH STACK ═══ -->
-
-## ⚙️ Tech Stack
-
-<div align="center">
-
-### ◈ Backend
-[![Skills](https://skillicons.dev/icons?i=php,laravel,mysql,redis,nginx,linux&perline=6&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-![Laravel Sanctum](https://img.shields.io/badge/Sanctum-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Eloquent ORM](https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-0d1117?style=flat-square&logo=fastapi&logoColor=white)
-![Groq AI](https://img.shields.io/badge/Groq_AI-00A67E?style=flat-square&logoColor=white)
-
-### ◈ Frontend
-[![Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,alpinejs,react&perline=6&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-![Livewire v4](https://img.shields.io/badge/Livewire_v4-4E56A6?style=flat-square&logo=livewire&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
-
-### ◈ Workflow & Tools
-[![Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker&perline=6&theme=dark)](https://skillicons.dev)
-
-<br/>
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-
-### ◈ Year 2 — Coming Soon
-[![Skills](https://skillicons.dev/icons?i=java,angular,typescript,aws&perline=4&theme=dark)](https://skillicons.dev)
-
+<img src="assets/terminal.svg" alt="Animated terminal: whoami, cat stack.txt, sudo make coffee" width="100%" />
 </div>
 
 <br/>
 
-<div align="center">
+I'm a Full Stack Developer from Morocco, studying at **YouCode School (UM6P Ecosystem)**, 2025 – 2027. I build with **Laravel** and **React**, and I care about clean architecture, security, and code that has tests.
 
-```
-Laravel / PHP        ████████████████████░░░░  88%
-MySQL + Eloquent     ████████████████████░░░░  82%
-Tailwind / Livewire  ███████████████████░░░░░  78%
-REST API Design      ██████████████████░░░░░░  72%
-JavaScript / React   ████████████████░░░░░░░░  65%
-AI Integration       █████████████░░░░░░░░░░░  50%
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══ PROJECTS ═══ -->
-
-## 🚀 Featured Projects
-
-<div align="center">
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### 🛺 Lamsa — Artisan Marketplace
-![](https://img.shields.io/badge/Status-In_Dev-FF6B35?style=flat-square)
-![](https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/Livewire_v4-4E56A6?style=flat-square)
-![](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://api.iconify.design/lucide:briefcase.svg?color=%23F5B84B" width="18" align="top" /> **Experience**
+Full Stack intern at Glorvia Marketing Agency (Jun – Aug 2026): real-time messaging, RBAC, Scrum sprints.
 
-E-commerce marketplace for Moroccan artisans. Real-time auction engine (AuctionService + BidService), Livewire reactivity, service layer pattern, Jira-linked Git flow.
-
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/ayoubelfaqir1-ops)
+<img src="https://api.iconify.design/lucide:hammer.svg?color=%23F5B84B" width="18" align="top" /> **Building now**
+Lamsa, a marketplace and auction platform for Moroccan artisans.
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🍽️ Food Recommendation API
-![](https://img.shields.io/badge/Status-In_Dev-FF6B35?style=flat-square)
-![](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![](https://img.shields.io/badge/Groq_AI-00A67E?style=flat-square)
-![](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+<img src="https://api.iconify.design/lucide:graduation-cap.svg?color=%23F5B84B" width="18" align="top" /> **Learning**
+Java, Angular, TypeScript, Docker and AWS.
 
-AI-powered recommendation engine with React frontend. Groq LLM via RecommendationService, Sanctum auth, Redis caching, many-to-many Eloquent, JSON parsing from AI output.
+<img src="https://api.iconify.design/lucide:languages.svg?color=%23F5B84B" width="18" align="top" /> **Languages**
+Arabic (native), French (fluent), English.
 
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/ayoubelfaqir1-ops)
+<img src="https://api.iconify.design/lucide:handshake.svg?color=%23F5B84B" width="18" align="top" /> **Open to**
+Freelance projects, internships and job opportunities.
 
 </td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏠 EasyColoc
-![](https://img.shields.io/badge/Status-Complete-00C851?style=flat-square)
-![](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-
-Shared housing expense manager. 9-table schema, debt simplification algorithm (optimal transfer graph), BalanceService + ReputationService + InvitationService.
-
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/ayoubelfaqir1-ops)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏗️ PHP MVC Framework
-![](https://img.shields.io/badge/Status-Complete-00C851?style=flat-square)
-![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![](https://img.shields.io/badge/Zero_Dependencies-555?style=flat-square)
-
-Custom MVC from zero — router, controllers, models, session auth, input validation. Built to understand how frameworks work under the hood.
-
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/ayoubelfaqir1-ops/mini-framework-php-mvc)
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### ✅ Taskboard App
-![](https://img.shields.io/badge/Status-Complete-00C851?style=flat-square)
-![](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-Task management with auth, full CRUD, search, filtering, sorting by deadline. Clean Laravel architecture.
-
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/ayoubelfaqir1-ops/Taskboard-app)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛒 VORTOX E-Commerce
-![](https://img.shields.io/badge/Status-Complete-00C851?style=flat-square)
-![](https://img.shields.io/badge/Laravel_11-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/4_Roles-7a1216?style=flat-square)
-
-Admin, Seller, Moderator, Client roles. Product management, shopping cart, order processing, inventory system.
-
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/ayoubelfaqir1-ops/VORTOX-Application-Web-E-Commerce-Platform)
-
-</td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏦 PHP Banking App
-![](https://img.shields.io/badge/Status-Complete-00C851?style=flat-square)
-![](https://img.shields.io/badge/PHP_OOP-777BB4?style=flat-square&logo=php&logoColor=white)
-![](https://img.shields.io/badge/PDO-00758F?style=flat-square&logo=mysql&logoColor=white)
-
-Console banking demonstrating OOP principles — encapsulation, inheritance, polymorphism — with secure PDO transactions.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📚 SAS — Library System (C)
-![](https://img.shields.io/badge/Status-Complete-00C851?style=flat-square)
-![](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![](https://img.shields.io/badge/File_Persistence-555?style=flat-square)
-
-Menu-driven student + library management. CRUD, advanced filtering, automated statistics, file persistence.
-
-[![View Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github)](https://github.com/ayoubelfaqir1-ops/projet-finale-sas)
-
-</td>
-
 </tr>
 </table>
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
+<img src="assets/divider.svg" alt="" width="100%" />
 
-<!-- ═══ ROADMAP ═══ -->
-
-## 🎯 Current Roadmap — 2026
-
-```
-╔══════════════════════════════════════════════════════════╗
-║  🛺 Lamsa v1.0          ████████████░░░░░░░░  55%       ║
-║  🍽️  Food API + React   █████████░░░░░░░░░░░  45%       ║
-║  🎯 Stage PFA (May)     ████████████████░░░░  80%       ║
-║  📐 Year 2 Stack        ████░░░░░░░░░░░░░░░░  20%       ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══ SECURITY ═══ -->
-
-## 🔐 Security Practices
+<img src="assets/h-stack.svg" alt="Tech Stack" width="100%" />
 
 <div align="center">
 
-| 🔑 | Principle | Implementation |
-|:---:|:---|:---|
-| ![](https://img.shields.io/badge/-bcrypt-C1272D?style=flat-square) | Password Security | bcrypt hashing — never plain-text |
-| ![](https://img.shields.io/badge/-Eloquent-C1272D?style=flat-square) | SQL Injection | Parameterized queries via Eloquent ORM |
-| ![](https://img.shields.io/badge/-Laravel-C1272D?style=flat-square) | CSRF | Middleware + token validation |
-| ![](https://img.shields.io/badge/-Sanctum-C1272D?style=flat-square) | Auth | Bearer tokens + SHA-256 hashing |
-| ![](https://img.shields.io/badge/-Policies-C1272D?style=flat-square) | Access Control | Role-based auth + Policy classes |
+**Front-end**<br/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,redux,html,css&theme=dark" alt="Front-end stack" />
 
-> **`"Security is not a feature you add at the end — it's line one."`**
+**Back-end**<br/>
+<img src="https://skillicons.dev/icons?i=php,laravel&theme=dark" alt="Back-end stack" />
+
+**Data and caching**<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" alt="Databases" />
+
+**Tools and workflow**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,postman,jira&theme=dark" alt="Tools" />
+
+**Leveling up (Year 2)**<br/>
+<img src="https://skillicons.dev/icons?i=java,angular,ts,docker,aws&theme=dark" alt="Year 2 stack" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" width="100%">
+<img src="assets/divider.svg" alt="" width="100%" />
 
-<!-- ═══ CONNECT ═══ -->
-
-## 🌍 Let's Build Something
+<img src="assets/h-projects.svg" alt="Featured Projects" width="100%" />
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayoub_Elfaqir-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elfaqir-ayoub-27b40b386/)
-[![GitHub](https://img.shields.io/badge/GitHub-ayoubelfaqir1--ops-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayoubelfaqir1-ops)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-C1272D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoubelfaqir1@gmail.com)
+<a href="https://github.com/ayoubelfaqir1-ops"><img src="assets/card-lamsa.svg" alt="Lamsa: marketplace and auctions for Moroccan artisans" width="49%" /></a>
+<a href="https://github.com/ayoubelfaqir1-ops/Plats-recommendation-api"><img src="assets/card-rightbite.svg" alt="RightBite: nutrition assistant with AI analysis" width="49%" /></a>
+
+</div>
 
 <br/>
 
-![](https://img.shields.io/badge/📍_Rabat--Salé--Kenitra,_Morocco-0d1117?style=flat-square)
-![](https://img.shields.io/badge/💼_Open_to_PFA_Internship-C1272D?style=flat-square)
-![](https://img.shields.io/badge/🤝_Open_to_Freelance_🇲🇦🇫🇷-7a1216?style=flat-square)
+| | Project | What it does | Stack |
+| :-: | --- | --- | --- |
+| <img src="https://api.iconify.design/lucide:home.svg?color=%23F5B84B" width="20" /> | **EasyColoc** | Shared-housing expense manager with a debt-simplification algorithm | Laravel, MySQL |
+| <img src="https://api.iconify.design/lucide:blocks.svg?color=%23F5B84B" width="20" /> | [**PHP MVC Framework**](https://github.com/ayoubelfaqir1-ops/mini-framework-php-mvc) | Framework from scratch: router, auth, sessions, validation | PHP |
+| <img src="https://api.iconify.design/lucide:shopping-cart.svg?color=%23F5B84B" width="20" /> | [**VORTOX**](https://github.com/ayoubelfaqir1-ops/VORTOX-Application-Web-E-Commerce-Platform) | E-commerce with Admin, Seller, Moderator and Client roles | Laravel 11, Blade |
+| <img src="https://api.iconify.design/lucide:list-checks.svg?color=%23F5B84B" width="20" /> | [**Taskboard**](https://github.com/ayoubelfaqir1-ops/Taskboard-app) | Task manager: auth, CRUD, search, sort by deadline | Laravel, Blade |
+| <img src="https://api.iconify.design/lucide:library.svg?color=%23F5B84B" width="20" /> | [**Library System**](https://github.com/ayoubelfaqir1-ops/projet-finale-sas) | Menu-driven student and library management | C |
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+<img src="assets/h-vitals.svg" alt="Dev Vitals" width="100%" />
+
+<div align="center">
+<img src="assets/vitals.svg" alt="Dev vitals: mint tea 96%, works on my machine 100%, sleep 12%" width="100%" />
+</div>
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+<img src="assets/h-principles.svg" alt="Engineering Rules" width="100%" />
+
+<table>
+<tr>
+<td width="25%" align="center" valign="top">
+<img src="https://api.iconify.design/lucide:lock-keyhole.svg?color=%23C1272D" width="38" /><br/>
+<b>Security first</b><br/>
+<sub>bcrypt, CSRF protection, parameterized queries</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="https://api.iconify.design/lucide:key-round.svg?color=%23F5B84B" width="38" /><br/>
+<b>Access control</b><br/>
+<sub>Sanctum tokens, roles and Policy classes</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="https://api.iconify.design/lucide:flask-conical.svg?color=%2322c58b" width="38" /><br/>
+<b>Tested code</b><br/>
+<sub>PHPUnit suites, CI/CD with GitHub Actions</sub>
+</td>
+<td width="25%" align="center" valign="top">
+<img src="https://api.iconify.design/lucide:layers.svg?color=%23ff5a5f" width="38" /><br/>
+<b>Clean architecture</b><br/>
+<sub>MVC, service layer, RESTful design</sub>
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Easter egg:</b> run <code>git log --oneline</code> on my brain</summary>
+
+```text
+a1f9c3e fix: fixed the fix that fixed the fix
+b27d04a feat: added a feature nobody asked for (it's beautiful though)
+c90e1b7 refactor: deleted 400 lines, nothing broke, suspicious
+d3a5f68 docs: wrote the README (future me says thanks)
+e7b2c01 fix: it was a missing semicolon. it's always a semicolon.
+f01a9d2 chore: drank mint tea instead of sleeping
+```
+
+</details>
+
+<img src="assets/divider.svg" alt="" width="100%" />
+
+<img src="assets/h-stats.svg" alt="GitHub Stats" width="100%" />
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ayoubelfaqir1-ops&show_icons=true&hide_border=true&bg_color=0d1117&title_color=F5B84B&icon_color=C1272D&text_color=c9d1d9&border_radius=14" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoubelfaqir1-ops&layout=compact&hide_border=true&bg_color=0d1117&title_color=F5B84B&text_color=c9d1d9&border_radius=14" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=ayoubelfaqir1-ops&hide_border=true&background=0d1117&ring=C1272D&fire=F5B84B&currStreakLabel=F5B84B&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b98a9&border_radius=14" alt="GitHub streak" />
 
 </div>
 
-<!-- ═══ FOOTER ═══ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C1272D,7a1216,0a0a0f&height=130&section=footer&text=Crafting+the+web%2C+one+commit+at+a+time&fontSize=16&fontColor=ffffff&fontAlignY=65&animation=twinkling" width="100%"/>
+<img src="assets/divider.svg" alt="" width="100%" />
+
+<img src="assets/h-contact.svg" alt="Let's Build Something" width="100%" />
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elfaqir-ayoub-27b40b386/)
+[![Email](https://img.shields.io/badge/Email-C1272D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayoub.elfaqir1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayoubelfaqir1-ops)
+
+<br/>
+
+<img src="assets/footer.svg" alt="Thanks for scrolling this far. Now go ship something." width="100%" />
+
+</div>

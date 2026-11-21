@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 360" width="900" height="360" role="img" aria-label="Dev vitals">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d121b"/><stop offset="1" stop-color="#1b0c13"/></linearGradient></defs>
+<rect x="1" y="1" width="898" height="358" rx="18" fill="url(#bg)" stroke="#30363d"/>
+<text x="30" y="34" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#8b98a9">// dev_vitals.json  (scientifically unverified)</text>
+<text x="30" y="70" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e6edf3">Mint tea / coffee intake</text>
+<text x="30" y="90" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b98a9">Fuel source: 100% renewable</text>
+<rect x="420" y="56" width="400" height="20" rx="10" fill="#ffffff" fill-opacity=".07"/>
+<rect x="420" y="56" width="0" height="20" rx="10" fill="#F5B84B"><animate attributeName="width" values="0;384;384;0" keyTimes="0;.25;.9;1" dur="8s" begin="0.0s" repeatCount="indefinite"/></rect>
+<text x="836" y="72" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="16" font-weight="700" fill="#F5B84B">96%</text>
+<text x="30" y="130" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e6edf3">&quot;It works on my machine&quot;</text>
+<text x="30" y="150" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b98a9">Deploys are a different story</text>
+<rect x="420" y="116" width="400" height="20" rx="10" fill="#ffffff" fill-opacity=".07"/>
+<rect x="420" y="116" width="0" height="20" rx="10" fill="#22c58b"><animate attributeName="width" values="0;400;400;0" keyTimes="0;.25;.9;1" dur="8s" begin="0.25s" repeatCount="indefinite"/></rect>
+<text x="836" y="132" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="16" font-weight="700" fill="#22c58b">100%</text>
+<text x="30" y="190" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e6edf3">console.log() debugging</text>
+<text x="30" y="210" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b98a9">Debuggers are for people with time</text>
+<rect x="420" y="176" width="400" height="20" rx="10" fill="#ffffff" fill-opacity=".07"/>
+<rect x="420" y="176" width="0" height="20" rx="10" fill="#ff5a5f"><animate attributeName="width" values="0;352;352;0" keyTimes="0;.25;.9;1" dur="8s" begin="0.5s" repeatCount="indefinite"/></rect>
+<text x="836" y="192" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="16" font-weight="700" fill="#ff5a5f">88%</text>
+<text x="30" y="250" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e6edf3">Stack Overflow tabs open</text>
+<text x="30" y="270" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b98a9">Currently: 14. Reading: 2</text>
+<rect x="420" y="236" width="400" height="20" rx="10" fill="#ffffff" fill-opacity=".07"/>
+<rect x="420" y="236" width="0" height="20" rx="10" fill="#F5B84B"><animate attributeName="width" values="0;292;292;0" keyTimes="0;.25;.9;1" dur="8s" begin="0.75s" repeatCount="indefinite"/></rect>
+<text x="836" y="252" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="16" font-weight="700" fill="#F5B84B">73%</text>
+<text x="30" y="310" font-family="'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e6edf3">Hours of sleep</text>
+<text x="30" y="330" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b98a9">Error 404: not found</text>
+<rect x="420" y="296" width="400" height="20" rx="10" fill="#ffffff" fill-opacity=".07"/>
+<rect x="420" y="296" width="0" height="20" rx="10" fill="#ff5a5f"><animate attributeName="width" values="0;48;48;0" keyTimes="0;.25;.9;1" dur="8s" begin="1.0s" repeatCount="indefinite"/></rect>
+<text x="836" y="312" font-family="SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="16" font-weight="700" fill="#ff5a5f">12%</text>
+</svg>
