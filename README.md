@@ -16,9 +16,9 @@ Full-stack developer focused on what happens between the click and the response 
 
 #### Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,angular,react,ts,tailwind,postgres,mysql,redis,docker,githubactions,git,linux&perline=15&theme=dark" alt="Tech Stack" />
-</p>
+| Backend | Frontend | Databases | DevOps & Tools |
+| :--- | :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=java,spring,php,laravel&theme=dark" height="36" alt="Backend" /> | <img src="https://skillicons.dev/icons?i=angular,react,ts,tailwind&theme=dark" height="36" alt="Frontend" /> | <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" height="36" alt="Databases" /> | <img src="https://skillicons.dev/icons?i=docker,githubactions,git,linux&theme=dark" height="36" alt="DevOps" /> |
 
 **Currently exploring:** Backend architecture, Docker, and cloud deployment.  
 <sub>Open to PFE internships and junior full-stack / backend developer roles.</sub>
